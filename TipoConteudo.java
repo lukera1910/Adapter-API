@@ -1,3 +1,3 @@
 public enum TipoConteudo {
-    POST, STORY, ARTICLE, VIDEO
+    POST, STORY, ARTICLE, VIDEO, THREAD
 }
